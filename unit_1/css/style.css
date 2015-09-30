@@ -1,10 +1,10 @@
 style.css
 
 body {
-	background-color: green;
+	background-color: #000000;
 }
 
 h1, p {
-	fint-family: Helvetica, sans-serif;
+	font-family: Helvetica, sans-serif;
 	color: white
 }
