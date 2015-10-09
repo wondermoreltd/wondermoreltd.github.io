@@ -6,7 +6,8 @@ body {
 	font-family: Helvetica, sans-serif;
 	font-size: 14px;
 	text-align: left;
-	border: 40px;
+	padding: 20px
+
 }
 
 h1 {
@@ -29,8 +30,4 @@ h1 {
 
 hr {
 	width: 1200px;
-}
-
-img {
-	text-align: center;
 }
