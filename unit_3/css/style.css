@@ -10,13 +10,14 @@ body {
 }
 
 h1 {
-	color: #860303;
-	font-weight: 300;
+	color: #313131;
+	font-weight: 600;
 	font-size: 38px;
+	text-align: center;
 }
 
 #slogan {
-	color: #313131;
+	color: #860303;
 	font-weight: bold;
 	font-size: 24px;
 
