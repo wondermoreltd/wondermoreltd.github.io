@@ -2,10 +2,12 @@
 
 @import url(https://fonts.googleapis.com/css?family=Vollkorn);
 
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab);
+
 body {
 	background-color: #f0f0f5;
 	color: #000000;
-	font-family: 'Vollkorn', serif;
+	font-family: 'Roboto Slab', serif;
 	font-size: 14px;
 	text-align: left;
 	line-height: 1.5em;
