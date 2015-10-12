@@ -1,14 +1,12 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:700);
 
-@import url(https://fonts.googleapis.com/css?family=Vollkorn);
-
-@import url(https://fonts.googleapis.com/css?family=Roboto+Slab);
+@import url(https://fonts.googleapis.com/css?family=Cardo);
 
 body {
 	background-color: #f0f0f5;
 	color: #000000;
-	font-family: 'Roboto Slab', serif;
-	font-size: 14px;
+	font-family: 'Cardo', serif;
+	font-size: 16px;
 	text-align: left;
 	line-height: 1.5em;
 	padding: 30px
@@ -17,7 +15,7 @@ body {
 
 h1 {
 	color: #313131;
-	font-weight: 700;
+	font-weight: 300;
 	font-size: 38px;
 	text-align: center;
 	font-family: 'Lato', sans-serif;
