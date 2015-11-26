@@ -56,15 +56,6 @@ hr {
 	padding-right: 20px;
 }
 
-.clearfix:after {
-	visibility: hidden;
-	display: block;
-	content: "image2";
-	clear: both;
-	height: 0;
-	font-size: 0;
-}
-
 #page3 {
 	display: block;
 	margin: 50px;
@@ -82,15 +73,6 @@ hr {
 	outline: 3px solid #434343;
 }
 
-.clearfix:after {
-	visibility: hidden;
-	display: block;
-	content: ".box";
-	clear: both;
-	height: 0;
-	font-size: 0;
-}
-
 .bottombox {
 	float: left;
 	width: 300px;
@@ -101,15 +83,6 @@ hr {
 	text-align: center;
 	line-height: 2em;
 	outline: 3px solid #434343;
-}
-
-.clearfix:after {
-	visibility: hidden;
-	display: block;
-	content: ".bottombox";
-	clear: both;
-	height: 0;
-	font-size: 0;
 }
 
 .heading {
