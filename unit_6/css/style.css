@@ -1,0 +1,168 @@
+body {
+	font-size: 14px;
+	font-family: "Open Sans", sans-serif;
+}
+
+h1 {
+	font-size: 3em;
+	color: white;
+	font-weight: bold;
+	padding: 20px;
+}
+
+h2 {
+	font-size: 2em;
+	font-family: "Courier New", serif;
+	text-align: center;
+	padding: 10px;
+}
+
+nav {
+	background-color: #434343;
+	font-family: "Courier New";
+}
+
+nav a {
+	background-color: #434343;
+	color: white;
+	text-decoration: none;
+	display: block;
+	float: left;
+	padding: 10px;
+}
+
+hr {
+	width: 1200px;
+	text-align: center;
+	margin-top: 20px;
+}
+
+#background {
+	width: 1300px;
+	display: block;
+}
+
+#page2 {
+	display: block;
+	line-height: 1.5em;
+	padding: 10px;
+	margin: 50px;
+}
+
+#image2 {
+	width: 400px;
+	display: block;
+	float: left;
+	padding-right: 20px;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content: "image2";
+	clear: both;
+	height: 0;
+	font-size: 0;
+}
+
+#page3 {
+	display: block;
+	margin: 50px;
+}
+
+.box {
+	float: left;
+	width: 200px;
+	height: 200px;
+	padding: 20px;
+	margin: 10px;
+	font-size: 14px;
+	text-align: center;
+	line-height: 2em;
+	outline: 3px solid #434343;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content: ".box";
+	clear: both;
+	height: 0;
+	font-size: 0;
+}
+
+.bottombox {
+	float: left;
+	width: 300px;
+	height: 200px;
+	padding: 20px;
+	margin: 10px;
+	font-size: 14px;
+	text-align: center;
+	line-height: 2em;
+	outline: 3px solid #434343;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content: ".bottombox";
+	clear: both;
+	height: 0;
+	font-size: 0;
+}
+
+.heading {
+	font-size: 20px;
+	font-weight: 800;
+}
+
+#test1 {
+	display: block;
+	float: left;
+	width: 600px;
+	padding: 10px;
+	margin: 10px;
+	line-height: 1.5em;
+}
+
+#test2 {
+	display: block;
+	float: right;
+	width: 600px;
+	padding: 10px;
+	margin: 10px;
+	line-height: 1.5em;
+}
+
+#test3 {
+	display: block;
+	float: left;
+	width: 500px;
+	padding: 10px;
+	margin: 10px;
+	line-height: 1.5em;
+}
+
+#contact {
+	text-align: center;
+	font-size: 16px;
+	line-height: 1.5em;
+	margin: 30px;
+}
+
+#footer {
+	background-color: #434343;
+	padding: 20px;
+	color: white;
+	text-align: left;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content: " ";
+	clear: both;
+	height: 0;
+	font-size: 0;
+}
